@@ -1,0 +1,14 @@
+﻿  Functinon_Professor.cpp
+  Function_Staff.cpp
+C:\모블\C++\UniverManage 최종본 (1)\UniverManage\Function_Staff.cpp(200,8): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+  Function_Student.cpp
+  Main.cpp
+  Professor.cpp
+  Staff.cpp
+  StartFunc.cpp
+  Student.cpp
+  University.cpp
+  코드를 생성하고 있습니다...
+  UniverManage.vcxproj -> C:\모블\C++\UniverManage 최종본 (1)\x64\Debug\UniverManage.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
